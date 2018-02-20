@@ -5,7 +5,7 @@ tags: [Post,DoOO]
 ---
 This is a little post I put together to show students at St. Norbert College how to quickly put a static page up on their domain. This should be useful for anyone who wants to go from zero to having a page on the internet. In this post I am assuming almost no prior knowledge of HTML, CSS, or cPanel, the only thing you need ahead of time is a domain and web hosting.
 
-When we are finished you will have a page that looks like this: demo.jadin.me
+When we are finished you will have a page that looks like this: [demo.jadin.me](demo.jadin.me)
 
 ## Directions using Reclaim Hosting
 
@@ -35,7 +35,7 @@ Next we will make an index.html file, a css folder, and a main.css file inside t
 <script src="https://gist.github.com/TaylorJadin/d789db56a7cfc37ebe34af3ed990092f.js"></script>
 8. Click **Save Changes**
 
-Go to your site and take a look! We have the basic content there, but it should look a bit off if you compare it to my demo page at demo.jadin.me
+Go to your site and take a look! We have the basic content there, but it should look a bit off if you compare it to my demo page at [demo.jadin.me](demo.jadin.me)
 
 
 <script src="https://gist.github.com/TaylorJadin/e912ba2cb1a1edf41f52b2b6da9a78ef.js"></script>
