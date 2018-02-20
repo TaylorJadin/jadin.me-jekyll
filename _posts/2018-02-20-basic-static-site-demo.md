@@ -56,3 +56,36 @@ Next we will make an index.html file, a css folder, and a main.css file inside t
         </body>
 </html>
 ```
+
+
+
+
+
+```css
+* {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+body {
+    margin: 60px auto;
+    width: 70%;
+}
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: green;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+}
+h2 {
+    font-size: 2em;
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: black;
+}
+```
