@@ -3,7 +3,7 @@ layout: post
 title: Static Site Demo
 tags: [Post,DoOO]
 ---
-This is a little post I put together to show students at St. Norbert College how to quickly put a static page up on their domain. This should be useful for anyone who wants to go from zero, to having a page on the internet, and it assumes no experience with HTML or CSS. The only thing you need ahead of time is a domain and web hosting.
+This is a little post I put together to show students at St. Norbert College how to quickly put a static page up on their domain. This should be useful for anyone who wants to go from zero to having a page on the internet. In this post I am assuming almost no prior knowledge of HTML, CSS, or cPanel, the only thing you need ahead of time is a domain and web hosting.
 
 ## Directions using Reclaim Hosting
 
