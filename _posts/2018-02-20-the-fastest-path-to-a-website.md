@@ -33,7 +33,11 @@ We have the basic content there, but it should look a bit off if you compare it 
 3. Name the folder **css** (case matters!) and click **Create New Folder**
 4. Select the css folder you just created, and create a new file in this folder called **main.css**
 5. You should now have an index.html file, a css folder, and a main.css folder inside it:
-
+```
+├── css
+│   └── main.css
+└── index.html
+```
 6. Edit **main.css** and Paste the code below into the file:
 <script src="https://gist.github.com/TaylorJadin/e912ba2cb1a1edf41f52b2b6da9a78ef.js"></script>
 7. Click **Save Changes** and **Close**
