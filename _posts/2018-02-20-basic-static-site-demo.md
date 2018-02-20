@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Static HTML Demo
+title: Static Site Demo
 tags: [Post,DoOO]
 ---
+This is a little post I put together to show students at St. Norbert College how to quickly put a static page up on their domain. This should be useful for anyone who wants to go from zero, to having a page on the internet, and it assumes no experience with HTML or CSS. The only thing you need ahead of time is a domain and web hosting.
+
 ## Directions using Reclaim Hosting
 
-For the purposes of this demo, we will make a subdomain to upload to so we do not mess up whatever is on your root domain.
+For the purposes of this demo, I am going to assume you are using [Reclaim Hosting](https://reclaimhosting.com), as that is what we are using for [our Domains project](knight.domains) here at [SNC](snc.edu)
 
 ### Making a subdomain
 1. Visit reclaimhosting.com
