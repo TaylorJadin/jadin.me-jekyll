@@ -5,7 +5,7 @@ url: "https://www.jadin.me"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Taylor Jadin
+  title: jadin.me
   avatar: assets/img/caricature.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
