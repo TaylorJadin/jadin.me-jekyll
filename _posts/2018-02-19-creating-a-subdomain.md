@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating a subdomain on Reclaim Hosting
-tags: [Post,DoOO]
+tags: [blog,dooo]
 ---
 Subdomains are great for separating
 
