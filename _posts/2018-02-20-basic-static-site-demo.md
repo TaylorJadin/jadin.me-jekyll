@@ -7,7 +7,7 @@ This is a little post I put together to show students at St. Norbert College how
 
 When we are finished you will have a page that looks like this: [demo.jadin.me](demo.jadin.me)
 
-If you already have content on your root domain (ex: jadin.me), you might want to [make a subdomain first](https://www.jadin.me/2018/02/19/creating-a-subdomain.html). 
+If you already have content on your root domain (ex: [jadin.me](jadin.me)), you might want to [make a subdomain first](https://www.jadin.me/2018/02/19/creating-a-subdomain.html). 
 
 ## Creating index.html
 
