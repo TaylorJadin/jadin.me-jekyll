@@ -15,7 +15,7 @@ theme_settings:
   header_text: > #two or three lines to describe your site
     <p>Hi! I'm Taylor.</p>
     <p>This is the home for stuff I put on the internet.</p>
-    <p>I <a href="https://twitter.com/taylorjadin">tweet</a>, post pictures to <a href="https://www.instagram.com/taylor_jadin/">Instagram</a>, and occasionally <a href="https://github.com/taylorjadin">write code</a>. I also say words on the <a href="https://magecast.net">Edtech Magecast</a>, and the <a href="https://soundcloud.com/jadinapproved>Jadin Approved podcast</a>.
+    <p>I <a href="https://twitter.com/taylorjadin">tweet</a>, post pictures to <a href="https://www.instagram.com/taylor_jadin/">Instagram</a>, and occasionally <a href="https://github.com/taylorjadin">write code</a>. I also say words on the <a href="https://magecast.net">Edtech Magecast</a>, and the <a href="https://soundcloud.com/jadinapproved>Jadin Approved podcast</a>.</p>
   header_text_feature_image: 
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
