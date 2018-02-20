@@ -1,3 +1,9 @@
+---
+layout: post
+title: Static HTML Demo
+tags: [Post,DoOO]
+---
+
 # Static HTML Demo
 
 ## Directions using Reclaim Hosting

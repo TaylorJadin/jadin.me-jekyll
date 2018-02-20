@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Markup: Syntax Highlighting"
-tags: [code]
+tags: [Post]
 ---
 
 <<<<<<< Updated upstream
