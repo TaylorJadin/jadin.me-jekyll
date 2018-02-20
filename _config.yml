@@ -21,12 +21,12 @@ theme_settings:
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
-  rss: false
+  rss: true
   email_address:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: taylorjadin
   flickr:
   gitlab:
   github: taylorjadin
@@ -43,7 +43,7 @@ theme_settings:
   twitter: taylorjadin
   vimeo:
   wordpress:
-  youtube:
+  youtube: UCDFYVLncztnWlIDyPYLUbGg
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
