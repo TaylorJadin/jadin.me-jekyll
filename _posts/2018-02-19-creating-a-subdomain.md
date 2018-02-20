@@ -3,7 +3,6 @@ layout: post
 title: Creating a subdomain on Reclaim Hosting
 tags: [blog,dooo]
 ---
-
 1. Visit reclaimhosting.com
 2. Click **Client Area Login**
 3. From the menu, choose **cPanel** and the name of your domain
