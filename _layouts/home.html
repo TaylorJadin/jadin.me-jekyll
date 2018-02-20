@@ -10,12 +10,7 @@ layout: default
   </div>
   {% endif %}
 
-  <div class="footer-icons">
-    <ul>
-    <!-- Social icons from Font Awesome, if enabled -->
-    {% include icons.html %}
-    </ul>
-  </div>
+  {% include homeicons.html %}
 
   <div class="posts">
     {% for post in paginator.posts %}
