@@ -13,7 +13,7 @@ If you already have content on your root domain (ex: [jadin.me](jadin.me)), you 
 
 First we will make an index.html file. The simplest way to do this will be to use cPanel's File Manager tool.
 
-1. From cPanel, click on !cPanel File Manager](https://i.imgur.com/0JXPNAK.png)
+1. From cPanel, click on ![cPanel File Manager](https://i.imgur.com/0JXPNAK.png)
 2. Select the folder named **public_html**, if you want to put this page on your subdomain (ex: **demo.jadin.me**), click folder named after that subdomain instead.
 3. Click ![new file button](https://i.imgur.com/e5cOxXl.png)
 4. Name the file **index.html** (case matters!) and click **Create New File**
