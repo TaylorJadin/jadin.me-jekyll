@@ -29,4 +29,30 @@ Next we will make an index.html file, a css folder, and a main.css file inside t
 4. Name the file index.html and click **Create New File**
 5. Next, select the file and click the edit button ![picture of edit button](https://i.imgur.com/ucduek5.png)
 6. Click **Edit**
-7. Paste in the contents of the index.html file from this repository.
+7. Paste in the contents of this file:
+```html
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>Demo Page</title>
+                <link rel="stylesheet" type="text/css" href="css/main.css">
+        </head>
+        <body>
+                <h1>Hello world!</h1>
+
+                <h2>About this site</h2>
+
+                <p>This simple page is used to demonstrate how HTML controls the content on a webpage, and how CSS applies styling to the page. You can view or download all (both) of the files needed for this page on my <a href="https://github.com/TaylorJadin/html-css-demo">Github Repository</a>. The repository also includes basic instructions on hosting these files on your domain or subdomain if you are using Reclaim Hosting.</p>
+
+                <h2>About Domain of One's Own</h2>
+
+                <p>You can find more information about Domain of One's Own at St. Norbert College at <a href="http://knight.domains">knight.domains</a>.</p>
+
+                <h2>About my dog</h2>
+
+                <p>Here is a picture of Annie. Feel free to use this picture on your own site. When you are making a website, only use images that you have permission to use.</p>
+
+                <img src="https://i.imgur.com/gWfHJNJ.jpg" alt="picture of my dog">
+        </body>
+</html>
+```
