@@ -3,15 +3,11 @@ layout: post
 title: Static Site Demo
 tags: [Post,DoOO]
 ---
-This is a little post I put together to show students at St. Norbert College how to quickly put a static page up on their domain. This should be useful for anyone who wants to go from zero to having a page on the internet. In this post I am assuming almost no prior knowledge of HTML, CSS, or cPanel, the only thing you need ahead of time is a domain and web hosting.
+This is a little post I put together to show students at St. Norbert College how to quickly put a static page up on their domain. In this post I am assuming almost no prior knowledge of HTML, CSS, or cPanel. The only thing you need ahead of time is a domain at [Reclaim Hosting](https://reclaimhosting.com).
 
 When we are finished you will have a page that looks like this: [demo.jadin.me](demo.jadin.me)
 
-## Directions using Reclaim Hosting
-
-For the purposes of this demo, I am going to assume you are using [Reclaim Hosting](https://reclaimhosting.com), as that is what we are using for [our Domains project](knight.domains) here at [SNC](snc.edu)
-
-### Making a subdomain
+## Making a subdomain
 1. Visit reclaimhosting.com
 2. Click **Client Area Login**
 3. From the menu, choose **cPanel** and the name of your domain
@@ -20,7 +16,7 @@ For the purposes of this demo, I am going to assume you are using [Reclaim Hosti
 ![cPanel Subdomains screenshot](https://i.imgur.com/WSgJUTC.png)
 6. Click **Create**
 
-### Creating index.html
+## Creating index.html
 
 Next we will make an index.html file, a css folder, and a main.css file inside the folder in the correct place. The simplest way to do this will be to use cPanel's File Manager tool.
 
