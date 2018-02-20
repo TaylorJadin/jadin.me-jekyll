@@ -27,7 +27,15 @@
             </a>
         </li>
         {% endif %}
-        {% endfor %} 
+        {% endfor %}
+        {% if site.theme_settings.tags %}
+        <li>
+            <a class="clear" href="{{ site.url }}{{ site.baseurl }}/tags">
+                All Posts
+                <i class="fa fa-tags" aria-hidden="true"></i>
+            </a>
+        </li>
+        {% endif %} 
         {% if site.theme_settings.portfolio %}
         <li>
             <a class="clear" href="{{ site.url }}{{ site.baseurl }}/portfolio">
@@ -39,13 +47,6 @@
         <li>
             <a class="clear" href="{{ site.url }}{{ site.baseurl }}/search">
                 <i class="fa fa-search" aria-hidden="true"></i>
-            </a>
-        </li>
-        {% endif %}
-        {% if site.theme_settings.tags %}
-        <li>
-            <a class="clear" href="{{ site.url }}{{ site.baseurl }}/tags">
-                <i class="fa fa-tags" aria-hidden="true"></i>
             </a>
         </li>
         {% endif %}
