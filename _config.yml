@@ -6,7 +6,7 @@ url: "https:www.jadin.me"
 theme_settings:
   # Meta
   title: Taylor Jadin
-  avatar: assets/img/caricature.png
+  avatar: assets/img/caricature.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
