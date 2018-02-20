@@ -13,7 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-  Hi! I'm Taylor, and this is the home for stuff I put on the internet.
+    <p>Hi! I'm Taylor.</p>
+    <p>This is the home for stuff I put on the internet.</p>
   header_text_feature_image: assets/img/material.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
