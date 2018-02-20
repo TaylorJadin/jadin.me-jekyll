@@ -3,7 +3,6 @@ layout: post
 title: Creating a subdomain on Reclaim Hosting
 tags: [blog,dooo]
 ---
-Subdomains are great for separating
 
 1. Visit reclaimhosting.com
 2. Click **Client Area Login**
