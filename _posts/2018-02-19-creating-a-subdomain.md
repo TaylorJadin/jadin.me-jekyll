@@ -9,6 +9,6 @@ Subdomains are great,
 2. Click **Client Area Login**
 3. From the menu, choose **cPanel** and the name of your domain
 4. Click **Subdomains**
-5. Under _Create a Subdomain_, in the _Subdomain_ field, write **demo**
+5. Under _Create a Subdomain_, in the _Subdomain_ field, write what you would like to call your subdomain. In my case I want to create [demo.jadin.me](demo.jadin.me) so I will write **demo**
 ![cPanel Subdomains screenshot](https://i.imgur.com/WSgJUTC.png)
 6. Click **Create**
