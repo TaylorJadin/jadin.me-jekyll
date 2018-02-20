@@ -3,9 +3,6 @@ layout: post
 title: Static HTML Demo
 tags: [Post,DoOO]
 ---
-
-# Static HTML Demo
-
 ## Directions using Reclaim Hosting
 
 For the purposes of this demo, we will make a subdomain to upload to so we do not mess up whatever is on your root domain.
