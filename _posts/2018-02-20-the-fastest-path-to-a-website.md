@@ -7,7 +7,7 @@ This is a post I put together to show students at St. Norbert College how to qui
 
 When we are finished you will have a page that looks like this: [demo.jadin.me](https://demo.jadin.me)
 
-If you already have content on your root domain (ex: [jadin.me](https://jadin.me)), you might want to [make a subdomain first](https://www.jadin.me/2018/02/19/creating-a-subdomain.html). 
+If you already have content on your root domain (ex: [jadin.me](https://jadin.me)) that you don't want to get rid of, you might want to [make a subdomain first](https://www.jadin.me/2018/02/19/creating-a-subdomain.html). 
 
 ## Creating index.html
 
@@ -39,7 +39,7 @@ We have the basic content there, but it should look a bit off if you compare it 
 │   └── main.css
 └── index.html
 ```
-6. Edit **main.css** and Paste the code below into the file:
+6. Edit **main.css** and paste the css below into the file:
 <script src="https://gist.github.com/TaylorJadin/e912ba2cb1a1edf41f52b2b6da9a78ef.js"></script>
 7. Click **Save Changes** and **Close**
 8. Check out your site again and see how it looks!
