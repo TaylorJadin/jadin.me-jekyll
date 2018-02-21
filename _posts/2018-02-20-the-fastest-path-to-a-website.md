@@ -38,7 +38,7 @@ We have the basic content there, but it should look a bit off if you compare it 
 │   └── main.css
 └── index.html
 ```
-6. Edit **main.css** and Paste the code below into the file:
+6. Edit **main.css** and paste the css below into the file:
 <script src="https://gist.github.com/TaylorJadin/e912ba2cb1a1edf41f52b2b6da9a78ef.js"></script>
 7. Click **Save Changes** and **Close**
 8. Check out your site again and see how it looks!
