@@ -6,7 +6,7 @@
     height: 100%;
     background-color: $header-desc-background-color;
     font-size: 1.2em;
-    text-align: center;
+    // text-align: center;
     color: $header-desc-text-color;
     background-repeat: no-repeat;
     background-size: $feature-image-size;
@@ -25,16 +25,12 @@
     h3,
     h4,
     h5 {
-        @extend .header-txt-shadow;
+        // @extend .header-txt-shadow;
     }
 
     p:last-child {
         margin-bottom: 0;
     }
-}
-
-.call-out a {
-    color: #c1c1c1;
 }
 
 #main {

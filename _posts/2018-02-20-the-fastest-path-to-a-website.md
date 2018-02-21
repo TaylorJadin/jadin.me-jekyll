@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The fastest path to a website
+title: The fastest path to a single page website
 tags: [domains]
 ---
 This is a little post I put together to show students at St. Norbert College how to quickly put a static page up on their domain. In this post I am assuming almost no prior knowledge of HTML, CSS, or cPanel. The only thing you need ahead of time is a domain at [Reclaim Hosting](https://reclaimhosting.com).
