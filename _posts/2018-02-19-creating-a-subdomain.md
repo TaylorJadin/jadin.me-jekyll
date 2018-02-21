@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating a subdomain on Reclaim Hosting
-tags: [blog,dooo]
+tags: [domains]
 ---
 1. Visit [reclaimhosting.com](https://reclaimhosting.com)
 2. Click **Client Area Login**
