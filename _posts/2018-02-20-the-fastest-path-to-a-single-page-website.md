@@ -4,7 +4,7 @@ permalink: /:title/
 title: The fastest path to a single page website
 tags: [domains]
 ---
-This is a post I put together to show students at St. Norbert College how to quickly put a static page up on their domain. In this post I am assuming almost no prior knowledge of HTML, CSS, or cPanel. The only thing you need ahead of time is a domain at [Reclaim Hosting](https://reclaimhosting.com).
+This is a post I put together to show the ITS Tech Bar Students I work with how to quickly put a static page up on their domain. I am assuming almost no prior knowledge of HTML, CSS, or cPanel. The only thing you need ahead of time is a domain at [Reclaim Hosting](https://reclaimhosting.com). 
 
 When we are finished you will have a page that looks like this: [demo.jadin.me](https://demo.jadin.me)
 
@@ -12,7 +12,7 @@ If you already have content on your root domain (ex: [jadin.me](https://jadin.me
 
 ## Creating index.html
 
-First we will make an index.html file. The simplest way to do this will be to use cPanel's File Manager tool.
+First, we will make an index.html file. The simplest way to do this will be to use cPanel's File Manager tool.
 
 1. Log in at [reclaimhosting.com](reclaimhosting.com), click on **cPanel**, then the name of your domain.
 2. Click on ![cPanel File Manager](https://i.imgur.com/0JXPNAK.png)
@@ -21,7 +21,7 @@ First we will make an index.html file. The simplest way to do this will be to us
 5. Name the file **index.html** (case matters!) and click **Create New File**
 6. Next, select the file and click ![edit button](https://i.imgur.com/ucduek5.png)
 7. Click **Edit**
-8. Paste the html below into your index.html file:
+8. Paste the HTML below into your index.html file:
 <script src="https://gist.github.com/TaylorJadin/d789db56a7cfc37ebe34af3ed990092f.js"></script>
 9. Click **Save Changes**
 10. Click **Close**
@@ -34,7 +34,7 @@ We have the basic content there, but it should look a bit off if you compare it 
 2. In the same folder where you have index.html, click ![new folder button](https://i.imgur.com/5vseFrE.png)
 3. Name the folder **css** (case matters!) and click **Create New Folder**
 4. Select the css folder you just created, and create a new file in this folder called **main.css**
-5. You should now have an index.html file, a css folder, and a main.css folder inside it:
+5. You should now have an **index.html** file, a **css** folder, and a **main.css** folder inside it:
 ```
 ├── css
 │   └── main.css
