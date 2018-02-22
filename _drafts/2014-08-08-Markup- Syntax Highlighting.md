@@ -2,7 +2,7 @@
 layout: post
 permalink: /:title/
 title: "Markup: Syntax Highlighting"
-tags: [Post]
+tags: [draft]
 ---
 
 <<<<<<< Updated upstream

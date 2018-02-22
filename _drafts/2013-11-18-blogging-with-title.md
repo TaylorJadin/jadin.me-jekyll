@@ -2,7 +2,7 @@
 layout: post
 permalink: /:title/
 title: Blogging with title
-tags: [Post]
+tags: [draft]
 ---
 
 # I am a BIG title
