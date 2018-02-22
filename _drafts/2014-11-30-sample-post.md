@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /:title/
 title: Sample post
 tags: [Post]
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /:title/
 title: Markdown and HTML
 tags: [Post]
 ---
