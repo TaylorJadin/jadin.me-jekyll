@@ -14,7 +14,7 @@ theme_settings:
   header_text: >
    <p>Hi! I'm Taylor.</p>
    <p>I <a href="https://twitter.com/taylorjadin">tweet</a>, post pictures to <a href="https://www.instagram.com/taylor_jadin/">Instagram</a>, and occasionally <a href="https://github.com/taylorjadin">write code</a>. I also say words on the <a href="http://magecast.net">EdTech Magecast</a>, and the <a href="https://soundcloud.com/jadinapproved">Jadin Approved podcast</a>.</p>
-  header_text_feature_image: assets/img/callout.jpg
+  header_text_feature_image: 
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
