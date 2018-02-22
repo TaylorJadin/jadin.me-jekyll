@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /:title/
 title: The fastest path to a single page website
 tags: [domains]
 ---
@@ -7,7 +8,7 @@ This is a post I put together to show students at St. Norbert College how to qui
 
 When we are finished you will have a page that looks like this: [demo.jadin.me](https://demo.jadin.me)
 
-If you already have content on your root domain (ex: [jadin.me](https://jadin.me)) that you don't want to get rid of, you might want to [make a subdomain first](https://www.jadin.me/2018/02/19/creating-a-subdomain.html). 
+If you already have content on your root domain (ex: [jadin.me](https://jadin.me)) that you don't want to get rid of, you might want to [make a subdomain first](http://knight.domains/kb/creating-a-subdomain/). 
 
 ## Creating index.html
 

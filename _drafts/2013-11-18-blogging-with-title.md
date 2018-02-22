@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /:title/
 title: Blogging with title
 tags: [Post]
 ---

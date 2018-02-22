@@ -10,7 +10,6 @@ theme_settings:
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
-
   # Header and footer text
   header_text: >
    <p>Hi! I'm Taylor.</p>
@@ -75,11 +74,11 @@ theme_settings:
 paginate: 5
 paginate_path: "blog/page:num"
 
-# PORTFOLIO
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:name
+# # PORTFOLIO
+# collections:
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:name
 
 # BUILD SETTINGS
 markdown: kramdown
