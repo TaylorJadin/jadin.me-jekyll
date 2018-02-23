@@ -15,17 +15,11 @@
     @media screen and (max-width: 850px) {
         background-size: 100% auto;
     } 
-    
-    //For white images
-    p,
-    a,
-    li,
-    h1,
-    h2,
-    h3,
-    h4,
-    h5 {
-        // @extend .header-txt-shadow;
+    a  {
+        font-weight: bold;
+    }
+    a:hover {
+        text-decoration: underline;
     }
 
     p:last-child {
