@@ -2,7 +2,7 @@
 layout: post
 permalink: /:title/
 title: The fastest path to a single page website
-tags: [domains]
+tags: [post,domains]
 ---
 This is a post I put together to show the ITS Tech Bar Students I work with how to quickly put a static page up on their domain. I am assuming almost no prior knowledge of HTML, CSS, or cPanel. The only thing you need ahead of time is a domain at [Reclaim Hosting](https://reclaimhosting.com). 
 
