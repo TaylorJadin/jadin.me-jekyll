@@ -108,11 +108,9 @@ a {
     color: #F92672;
   }
   
-  body {
+body {
     cursor: text;
     counter-reset: input;
-    margin: 20px;
-    padding: 0;
     -moz-font-smoothing: antialiased;
     -webkit-font-smoothing: antialiased;
   }

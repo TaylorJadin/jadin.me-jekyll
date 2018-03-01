@@ -2,7 +2,7 @@
 layout: post
 permalink: /:title/
 title: Getting water out of the speakers of an iPhone X quickly
-tags: [post]
+tags: [ramblings]
 ---
 This morning I was listening to a podcast on my phone as I was getting ready for work, and I splashed a large amount of water on my phone. I freaked out for a second before I realized that my phone is waterproof. Once I realized this, I resumed the playback of my podcast, but I could barely hear it, and the sound was extremely distorted. I quickly realized that this was because my phone speakers were drenched. It was at this time I thought of two solutions:
 1. Turn the podcast off, continue getting ready for my day, wait for the speakers to dry, and generally act like a reasonable and patient adult.
