@@ -13,7 +13,7 @@ theme_settings:
   # Header and footer text
   header_text: >
    <div class=" terminal ">
-    <p class=" terminal--header ">Last login: {{site.time}} on ttys000</p>
+    <p class=" terminal--header ">Last login: Thu Mar  1 08:42:48 on ttys000</p>
     <p class=" terminal--input ">cat taylor.txt</p>
     <p class=" terminal--output "><p>I <a href="https://twitter.com/taylorjadin">tweet</a>, post pictures to <a href="https://www.instagram.com/taylor_jadin/">Instagram</a>, and occasionally <a href="https://github.com/taylorjadin">write code</a>. I also say words on the <a href="http://magecast.net">EdTech Magecast</a>, and the <a href="https://soundcloud.com/jadinapproved">Jadin Approved podcast</a>.</p>
     <p class=" terminal--input "></p>
