@@ -12,4 +12,4 @@ I decided to go with option 2. I remembered that the Apple watch plays a sound w
 
 I looked up to see if anyone else had tried something like this, and the conventional wisdom seemed to be 160Hz was a good target frequency. I selected 160Hz, turned the volume on my phone all the way up, and clicked the **Play** button. I then let me phone sit face down for a few seconds on the table and BAM, I had a working speaker again after a relatively short amount of time.
 
-![screenshot of the Sonic app](https://i.imgur.com/XKs3jpe.png){:height="1000px"}
+![screenshot of the Sonic app](https://i.imgur.com/XKs3jpe.png){:height="50%" width="50%"}
