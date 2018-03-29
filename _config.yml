@@ -14,8 +14,8 @@ theme_settings:
   header_text: >
    <div class=" terminal ">
     <p class="terminal--header ">Last login: <span id="time"></span> on ttys000</p>
-    <p class=" terminal--input ">cat taylor.txt</p>
-    <p class=" terminal--output "><p>I <a href="https://twitter.com/taylorjadin">tweet</a>, post pictures to <a href="https://www.instagram.com/taylor_jadin/">Instagram</a>, and occasionally <a href="https://github.com/taylorjadin">write code</a>. I'm also on the <a href="http://magecast.net">EdTech Magecast</a> and the <a href="https://soundcloud.com/jadinapproved">Jadin Approved podcast</a>.</p>
+    <p class=" terminal--input ">cat aboutMe.txt</p>
+    <p class=" terminal--output "><p>I am a Learning Technologies Specialist at St. Norbert College. I love when teaching and technology intersect.<p>I <a href="https://twitter.com/taylorjadin">tweet</a>, post pictures to <a href="https://www.instagram.com/taylor_jadin/">Instagram</a>, and occasionally <a href="https://github.com/taylorjadin">write code</a>. I'm also on the <a href="http://magecast.net">EdTech Magecast</a> and the <a href="https://soundcloud.com/jadinapproved">Jadin Approved podcast</a>.</p>
     <p class=" terminal--input "></p>
    </div>
    <script>
