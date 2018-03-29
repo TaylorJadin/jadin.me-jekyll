@@ -6,7 +6,7 @@ feature-img: "assets/img/typewriter.jpg"
 thumbnail: "assets/img/typewriter.jpg"
 tags: [DoOO]
 ---
-We have a budding [Domain of One's Own](https://knight.domains/) project at St. Norbert College, and it has been exciting to see our pilot groups and [Tech Bar](https://www.snc.edu/its/services/techbar.html) students jump head-first into building their own slices of the web and taking control of their digital identities! A sentiment we here again and again from our students, staff, and faculty is that they often have a hard time setting aside time to work on their domains, and they feel like they need a little extra push or encouragement to get to work.
+We have a budding [Domain of One's Own](https://knight.domains/about/) project at St. Norbert College, and it has been exciting to see our pilot groups and [Tech Bar](https://www.snc.edu/its/services/techbar.html) students jump head-first into building their own slices of the web and taking control of their digital identities! A sentiment we here again and again from our students, staff, and faculty is that they often have a hard time setting aside time to work on their domains, and they feel like they need a little extra push or encouragement to get to work.
 
 Our idea to solve this was to create a "space" that encourages those of us with domains to work alongside each other physically or virtually. We are calling this **Open Domains Lab**.
 
