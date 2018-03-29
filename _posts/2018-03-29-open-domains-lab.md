@@ -6,7 +6,7 @@ feature-img: "assets/img/typewriter.jpg"
 thumbnail: "assets/img/typewriter.jpg"
 tags: [DoOO]
 ---
-_This post is cross-listed from [knight.domains_](http://knight.domains/thinkdeeper/open-domains-lab/)_
+_This post is cross-listed from [knight.domains](http://knight.domains/thinkdeeper/open-domains-lab/)_
 
 We have a budding [Domain of One's Own](https://knight.domains/about/) project at St. Norbert College, and it has been exciting to see our pilot groups and [Tech Bar](https://www.snc.edu/its/services/techbar.html) students jump head-first into building their own slices of the web and taking control of their digital identities! Despite all of this excitement, a sentiment we hear again and again from our students, staff, and faculty is that they often have a hard time setting aside time to work on their domains, and they feel like they need a little extra push or encouragement to get to work.
 
