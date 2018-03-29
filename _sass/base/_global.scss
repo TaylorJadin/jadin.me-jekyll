@@ -152,6 +152,18 @@ a {
     text-decoration: none;
 }
 
+p {
+    a {
+        text-decoration: underline;
+    }
+}
+
+.content li {
+    a {
+        text-decoration: underline;
+    }
+}
+
 iframe,
 img,
 embed,

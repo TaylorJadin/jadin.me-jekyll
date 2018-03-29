@@ -49,12 +49,12 @@ theme_settings:
   twitter: taylorjadin
   vimeo:
   wordpress:
-  youtube: UCDFYVLncztnWlIDyPYLUbGg
+  youtube: jaigurudevaom07
 
   # Scripts / Features 
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-114305115-1
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
   portfolio: false
   search: true
   tags: true
@@ -80,7 +80,7 @@ theme_settings:
 
 # PAGINATION
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "/page:num"
 
 # # PORTFOLIO
 # collections:
