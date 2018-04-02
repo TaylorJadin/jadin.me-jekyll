@@ -53,7 +53,7 @@ theme_settings:
 
   # Scripts / Features 
   google_analytics: UA-114305115-1
-  disqus_shortname: taylorjadin
+  disqus_shortname:
   katex: false # Enable if using math markup
   portfolio: false
   search: true
