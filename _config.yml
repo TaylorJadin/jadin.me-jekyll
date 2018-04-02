@@ -53,12 +53,11 @@ theme_settings:
 
   # Scripts / Features 
   google_analytics: UA-114305115-1
-  disqus_shortname:
+  disqus_shortname: taylorjadin
   katex: false # Enable if using math markup
   portfolio: false
   search: true
   tags: true
-  
   
   # Localization strings
   str_follow_on: "Follow on"
@@ -81,12 +80,6 @@ theme_settings:
 # PAGINATION
 paginate: 5
 paginate_path: "/page:num"
-
-# # PORTFOLIO
-# collections:
-#   portfolio:
-#     output: true
-#     permalink: /:collection/:name
 
 # BUILD SETTINGS
 markdown: kramdown
