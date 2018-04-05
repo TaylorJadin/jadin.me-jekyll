@@ -24,6 +24,3 @@ The Cassandra Voss Center also has a kitchen and easy to access visitor parking 
 
 #### 3. A virtual space to work alongside others:
 If you can't make it to campus, or if you prefer working alone, that is OK! Tweet using [#DoOO](https://twitter.com/search?f=tweets&q=%23DoOO&src=typd) during Open Domains Lab (first Thursday of the month, every month, from 4 pm to 8 pm CT) and ask questions, get advice, or share your work!
-
-## We'll see you Thursday!
-We envision this as a great place for people to show off their work, ask questions, and get inspired! The first Open Domains Lab will be **April 5th, from 4 pm to 8 pm.**
