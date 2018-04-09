@@ -2,7 +2,7 @@
 layout: post
 title: "Jadin Approved 2: I have no discipline"
 permalink: /jadinapproved/:title/
-tags: [JadinApproved,Podcast]
+tags: [JadinApproved,Podcasts]
 ---
 [Listen here!](https://soundcloud.com/jadinapproved/2-i-have-no-discipline)
 

@@ -16,7 +16,7 @@ for item in items:
     link = item["link"]
     f.write('---\nlayout: post\ntitle: "Jadin Approved ' + title + '"\n')
     f.write('''permalink: /jadinapproved/:title/
-tags: [JadinApproved,Podcast]
+tags: [JadinApproved,Podcasts]
 ---
 ''')
     f.write('[Listen here!]('+ link + ')')

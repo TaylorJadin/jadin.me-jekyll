@@ -2,7 +2,7 @@
 layout: post
 title: "Jadin Approved 1: Monument Valley"
 permalink: /jadinapproved/:title/
-tags: [JadinApproved,Podcast]
+tags: [JadinApproved,Podcasts]
 ---
 [Listen here!](https://soundcloud.com/jadinapproved/1-monument-valley)
 
