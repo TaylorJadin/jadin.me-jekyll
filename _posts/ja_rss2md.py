@@ -22,4 +22,3 @@ tags: [JadinApproved,Podcasts]
     f.write('[Listen here!]('+ link + ')')
     f.write('\n\n')
     f.write('Show notes:\n\n' + value)
-print 'end'
