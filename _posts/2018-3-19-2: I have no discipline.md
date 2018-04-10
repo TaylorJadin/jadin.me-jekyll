@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jadin Approved 2: I have no discipline"
+title: "Jadin Approved Podcast 2: I have no discipline"
 permalink: /jadinapproved/:title/
 tags: [JadinApproved,Podcasts]
 ---
