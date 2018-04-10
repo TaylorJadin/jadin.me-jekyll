@@ -5,7 +5,7 @@
 *.manifest
 *.spec
 
-
+.vscode
 _site/**
 _site
 _development_tool/**
