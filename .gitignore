@@ -1,11 +1,13 @@
 # Mac files
 .DS_Store
 
+# VSCode project config files
+.vscode
+
 # Byte-compiled / optimized / DLL files
 *.manifest
 *.spec
 
-.vscode
 _site/**
 _site
 _development_tool/**
