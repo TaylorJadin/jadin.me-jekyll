@@ -6,8 +6,6 @@ tags: [JadinApproved,Podcasts]
 ---
 [Listen here!](https://soundcloud.com/jadinapproved/2-i-have-no-discipline)
 
-Show notes:
-
 Taylor goes without screen time after 8pm and Abby uses Google Calendar to keep track of goals.
 
 [Abby the spoon lady](https://www.facebook.com/Catchy.video/videos/675836686139302/)

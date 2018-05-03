@@ -19,6 +19,6 @@ tags: [Magecast,Podcasts]
 ''')
     f.write('[Listen here!]('+ link + ')')
     f.write('\n\n')
-    f.write('Show notes:\n\n' + notes)
+    f.write(notes)
 
 print("Finished parsing Magecast RSS feed")
