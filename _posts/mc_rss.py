@@ -12,7 +12,7 @@ for item in items:
     f = open(fileName,'w')
     notes = item["content"][0]['value'].encode('UTF8')
     link = item["link"]
-    f.write('---\nlayout: post\ntitle: "Edtech Mages Podcast ' + title + '"\n')
+    f.write('---\nlayout: post\ntitle: "Podcast: Edtech Magecast ' + title + '"\n')
     f.write('''permalink: /magecast/:title/
 tags: [Magecast,Podcasts]
 ---

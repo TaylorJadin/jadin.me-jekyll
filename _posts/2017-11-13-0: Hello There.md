@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edtech Mages Podcast 0: Hello There"
+title: "Podcast: Edtech Magecast 0: Hello There"
 permalink: /magecast/:title/
 tags: [Magecast,Podcasts]
 ---
