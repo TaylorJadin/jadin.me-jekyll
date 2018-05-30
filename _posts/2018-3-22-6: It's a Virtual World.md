@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edtech Magecast 6 - It's a Virtual World"
+title: "Podcast: Edtech Magecast 6: It's a Virtual World"
 permalink: /magecast/:title/
 tags: [Magecast,Podcasts]
 ---

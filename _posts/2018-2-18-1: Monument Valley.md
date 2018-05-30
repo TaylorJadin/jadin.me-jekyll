@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jadin Approved 1 - Monument Valley"
+title: "Podcast: Jadin Approved 1: Monument Valley"
 permalink: /jadinapproved/:title/
 tags: [JadinApproved,Podcasts]
 ---

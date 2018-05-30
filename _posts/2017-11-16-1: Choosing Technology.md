@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edtech Magecast 1 - Choosing Technology"
+title: "Podcast: Edtech Magecast 1: Choosing Technology"
 permalink: /magecast/:title/
 tags: [Magecast,Podcasts]
 ---
