@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edtech Magecast 3: Audio and Video What???"
+title: "Edtech Magecast 3 - Audio and Video What???"
 permalink: /magecast/:title/
 tags: [Magecast,Podcasts]
 ---

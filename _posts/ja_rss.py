@@ -7,7 +7,8 @@ items = p["items"]
 for item in items:
     time = item[ "published_parsed" ]
     title = item[ "title" ].encode('utf8')
-    fileName = str(time.tm_year) + '-' + str(time.tm_mon) + '-' + str(time.tm_mday) + '-' + 'ja' + '.md'
+    title = title.replace(':', " -")
+    fileName = str(time.tm_year) + '-' + str(time.tm_mon) + '-' + str(time.tm_mday) + '-' + title + '.md'
     fileName = fileName.replace('/', '')
     f = open(fileName,'w')
     notes = item["content"][0]['value'].encode('utf8')
