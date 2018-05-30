@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podcast: Edtech Magecast 7: Our Domains"
+title: "Edtech Magecast 7 - Our Domains"
 permalink: /magecast/:title/
 tags: [Magecast,Podcasts]
 ---
