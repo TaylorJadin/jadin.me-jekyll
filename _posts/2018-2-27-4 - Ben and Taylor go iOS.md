@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podcast: Edtech Magecast 4: Ben and Taylor go iOS"
+title: "Edtech Magecast 4 - Ben and Taylor go iOS"
 permalink: /magecast/:title/
 tags: [Magecast,Podcasts]
 ---
