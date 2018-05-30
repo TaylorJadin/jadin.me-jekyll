@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podcast: Edtech Magecast 5: Cutting the Cord"
+title: "Edtech Magecast 5: Cutting the Cord"
 permalink: /magecast/:title/
 tags: [Magecast,Podcasts]
 ---

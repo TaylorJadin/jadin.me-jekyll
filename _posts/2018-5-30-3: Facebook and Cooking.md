@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podcast: Jadin Approved 3: Facebook and Cooking"
+title: "Jadin Approved 3: Facebook and Cooking"
 permalink: /jadinapproved/:title/
 tags: [JadinApproved,Podcasts]
 ---
