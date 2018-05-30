@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import feedparser
-import re
 
 p = feedparser.parse( "https://www.edtechmage.com/edtech-mages-podcast?format=rss" )
 items = p["items"]
