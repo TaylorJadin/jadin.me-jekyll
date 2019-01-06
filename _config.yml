@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://www.jadin.me"
+baseurl: "https://jadin.me"
+# url: "https://www.jadin.me"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
