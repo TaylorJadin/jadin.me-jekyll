@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
-baseurl: "https://jadin.me"
-url: "https://www.jadin.me"
+baseurl: ""
+url: "https://jadin.me"
+destination: "/home/jadinme/public_html"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
