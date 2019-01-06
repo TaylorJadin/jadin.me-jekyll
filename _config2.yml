@@ -1,0 +1,4 @@
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://jadin.me"
+destination: "/home/jadinme/public_html"
