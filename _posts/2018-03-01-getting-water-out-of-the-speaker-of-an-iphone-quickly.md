@@ -8,8 +8,8 @@ This morning I was listening to a podcast on my phone as I was getting ready for
 1. Turn the podcast off, continue getting ready for my day, wait for the speakers to dry, and generally act like a reasonable and patient adult.
 2. Find a way to eject the water from the speakers quickly, so I could resume listening.
 
-I decided to go with option 2. I remembered that the Apple watch plays a sound when ejecting water from itself, so I decided to download [Sonic](https://itunes.apple.com/us/app/sonic/id986999895?mt=8) which is a free app that can generate a single tone, and lets you choose the specific frequency of the tone
+I decided to go with option 2. I remembered reading that the Apple watch plays a specific tone when ejecting water from itself, so I decided to look for an app that could do something similar and found [Sonic](https://itunes.apple.com/us/app/sonic/id986999895?mt=8). Sonic is a free app that can generate a single tone, and lets you choose the specific frequency of the tone
 
 I looked up to see if anyone else had tried something like this, and the conventional wisdom seemed to be 160Hz was a good target frequency. I selected 160Hz, turned the volume on my phone all the way up, and clicked the **Play** button. I then let me phone sit face down for a few seconds on the table and BAM, I had a working speaker again after a relatively short amount of time.
 
-![screenshot of the Sonic app](https://i.imgur.com/XKs3jpe.png){:height="50%" width="50%"}
+![screenshot of the Sonic app](https://i.imgur.com/XKs3jpe.png){:height="25%" width="25%"}
