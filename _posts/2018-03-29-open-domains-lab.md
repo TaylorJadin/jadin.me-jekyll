@@ -2,8 +2,8 @@
 layout: post
 permalink: /:title/
 title: Open Domains Lab
-feature-img: "assets/img/typewriter.jpg"
-thumbnail: "assets/img/typewriter.jpg"
+feature-img: assets/img/typewriter.jpg
+thumbnail: assets/img/typewriter.jpg
 tags: [DoOO]
 ---
 _This post is cross-listed from [blog.knight.domains](https://blog.knight.domains/thinkdeeper/open-domains-lab/)_
