@@ -1,5 +1,6 @@
 .site-header {
-    padding: 25px;
+    padding: $padding-x-small $padding-x-small * 2;
+    padding-top: $padding-x-small;
     background: $brand-color;
     display: inline-block;
     float: left;
