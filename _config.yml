@@ -1,7 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
 url: "https://jadin.me"
-destination: "/home/jadinme/public_html"
+destination: ~/public_html 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -90,4 +89,4 @@ sass:
   style: :compressed
 plugins: [jekyll-paginate, jekyll-seo-tag]
 theme: type-on-strap # If using the theme as a jekyll theme gem
-exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png"]
+exclude: [vendor, "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png"]
