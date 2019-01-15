@@ -43,7 +43,7 @@ This all makes sense. Platforms like these live and die on their ability to keep
 
 ## Why does it matter?
 
-The media I consume online is certainly one of the ingredients that make up my persona. At the risk of sounding dramatic, why wouldn't I want to have control over that part of what makes me, me? That being said, I know that I don't want to just stop reading articles and blog posts, so I needed something else to shift those habits over to.[^0]
+The media I consume online is certainly one of the ingredients that make up my persona. At the risk of sounding dramatic, why wouldn't I want to have control over that part of what makes me, me? That being said, I know that I don't want to just stop reading articles and blog posts, so I needed something else to shift those habits over to.[^1]
 
 ## Tiny Tiny RSS
 
@@ -51,30 +51,29 @@ The media I consume online is certainly one of the ingredients that make up my p
 
 *Tiny Tiny RSS hosted on my domain at reader.jadin.me*
 
-This is where RSS readers (remember Google Reader?) come back in to importance for me. Unfortunately Google Reader has been [discontinued since 2013](https://www.google.com/reader/about/) so I started my search for something to replace it. I tried several platforms like [Feedly](https://feedly.com/i/welcome), [Inoreader](https://www.inoreader.com/?lang=en_US), and [NewsBlur](https://newsblur.com/). While these RSS readers mostly worked how I'd like them to[^1] I felt as long as I was going to take ownership over what I read, I should take ownership of the tool I would use to do my reading as well. For me this meant that I should go with something that I could host on my own domain. 
+This is where RSS readers (remember Google Reader?) come back in to importance for me. Unfortunately Google Reader has been [discontinued since 2013](https://www.google.com/reader/about/) so I started my search for something to replace it. I tried several platforms like [Feedly](https://feedly.com/i/welcome), [Inoreader](https://www.inoreader.com/?lang=en_US), and [NewsBlur](https://newsblur.com/). While these RSS readers mostly worked how I'd like them to[^2] I felt as long as I was going to take ownership over what I read, I should take ownership of the tool I would use to do my reading as well. For me this meant that I should go with something that I could host on my own domain. 
 
-After some more research I decided on Tiny Tiny RSS, which I set up with my favorite blogs and news sources at [reader.jadin.me](reader.jadin.me). After some tinkering I got everything working the way I like AND I solved my problem with feeling stressed out by the number of unread items using this thought technology:[^2]
+After some more research I decided on Tiny Tiny RSS, which I set up with my favorite blogs and news sources at [reader.jadin.me](reader.jadin.me). After some tinkering I got everything working the way I like AND I solved my problem with feeling stressed out by the number of unread items using this thought technology:[^3]
 
 #### I don't need to read everything in my RSS reader. It is both OK and totally healthy to hit the "Mark as Read" button on occasion.
 
-Its stupid that I couldn't come to terms with this earlier, but thats sometimes how my brain works.[^2.5] Another tactic that helps me here is to organize  the larger news sites and smaller blogs into their own respective categories. This makes it easier to simply skim the headlines of the news websites while still catching every post from blogs I really care about.
+Its stupid that I couldn't come to terms with this earlier, but thats sometimes how my brain works.[^4] Another tactic that helps me here is to organize  the larger news sites and smaller blogs into their own respective categories. This makes it easier to simply skim the headlines of the news websites while still catching every post from blogs I really care about.
 
 ## Final Thoughts
 
-Has this been successful? So far, I think so. I definitely spend much more of my reading time in Tiny Tiny RSS, which I have set up with a much more diverse set of news sources and blogs and its usually the first place I will go when I'm looking for something to read. I'm also very satisfied with the [Android app](https://play.google.com/store/apps/details?id=org.fox.ttrss&hl=en_US) for use on my phone, which is important because I probably read more from my phone than from a laptop or desktop nowadays. In addition to this I spend more time reading stuff from individual people writing about educational technology and the web itself,[^3] which feels like time better spent.
+Has this been successful? So far, I think so. I definitely spend much more of my reading time in Tiny Tiny RSS, which I have set up with a much more diverse set of news sources and blogs and its usually the first place I will go when I'm looking for something to read. I'm also very satisfied with the [Android app](https://play.google.com/store/apps/details?id=org.fox.ttrss&hl=en_US) for use on my phone, which is important because I probably read more from my phone than from a laptop or desktop nowadays. In addition to this I spend more time reading stuff from individual people writing about educational technology and the web itself,[^5] which feels like time better spent.
 
 
-[^0] It is also worth noting that I don't personally feel the need to completely cut these platforms out of my life, but that I just want to spend less time compulsively visiting them.
+[^1] It is also worth noting that I don't personally feel the need to completely cut these platforms out of my life, but that I just want to spend less time compulsively visiting them.
 
-[^1]: I recommend Inoreader if you are not looking to host something yourself.
+[^2]: I recommend Inoreader if you are not looking to host something yourself.
 
-[^2]:
+[^3]:
     *Thought technology*
-    <br>
     **Definition**: A pretty neat idea you can employ to make something easier on yourself
     <br>
     **Origin**: Not exactly sure but if I had to guess, the excellent [Reconcilable Differences](https://www.relay.fm/rd) podcast.
 
-[^2.5]: I get to live with it.
+[^4]: I get to live with it.
 
-[^3]: Whoah dude, thats meta.
+[^5]: Whoah dude, thats meta.
