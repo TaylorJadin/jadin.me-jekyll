@@ -30,6 +30,7 @@ Google Reader was a cool service at the time, but I had some problems with my ow
 ## Social Media
 
 ![screenshot of phone with social media apps on the home screen](https://cdn.pixabay.com/photo/2015/10/21/08/22/media-998990_640.jpg)
+
 *[Source](https://pixabay.com/en/media-social-media-apps-998990/)*
 
 Soon, as platforms like Twitter, Facebook and Reddit became more and more popular I began to find myself spending more time there and transitioning more of my reading time away from individual sites. Jumping forward to about 6 months ago I realized that I was seeking out way less individual news sources than I ever had and instead spend most of my reading time on Twitter, Facebook and Reddit. I noticed that the news sites I did visit (that weren't served up by the aforementioned social media platforms) were whittled down to only a few because it was easier to just visit Twitter, Reddit and Facebook. 
@@ -56,7 +57,7 @@ Its stupid that I couldn't come to terms with this earlier, but welcome to my br
 
 [^2]:
     _Thought technology_
-    \n
+    <br>
     Definition: a neat idea you can use to make something work better for you.
-    \n
+    <br>
     Origin: Not exactly sure, but if I had to guess, the excellent [Reconcilable Differences](https://www.relay.fm/rd) podcast.
