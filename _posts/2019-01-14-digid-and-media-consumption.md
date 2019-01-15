@@ -64,7 +64,7 @@ Its stupid that I couldn't come to terms with this earlier, but thats sometimes 
 Has this been successful? So far, I think so. I definitely spend much more of my reading time in Tiny Tiny RSS, which I have set up with a much more diverse set of news sources and blogs and its usually the first place I will go when I'm looking for something to read. I'm also very satisfied with the [Android app](https://play.google.com/store/apps/details?id=org.fox.ttrss&hl=en_US) for use on my phone, which is important because I probably read more from my phone than from a laptop or desktop nowadays. In addition to this I spend more time reading stuff from individual people writing about educational technology and the web itself,[^5] which feels like time better spent.
 
 
-[^1] It is also worth noting that I don't personally feel the need to completely cut these platforms out of my life, but that I just want to spend less time compulsively visiting them.
+[^1]: It is also worth noting that I don't personally feel the need to completely cut these platforms out of my life, but that I just want to spend less time compulsively visiting them.
 
 [^2]: I recommend Inoreader if you are not looking to host something yourself.
 
