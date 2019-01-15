@@ -44,8 +44,14 @@ The media I consume online is certainly one of the ingredients that make up my p
 
 *Tiny Tiny RSS hosted on my domain at reader.jadin.me*
 
-This is where RSS readers (remember Google Reader?) come back in to importance for me. Unfortunately Google Reader has been [discontinued since 2013](https://www.google.com/reader/about/) so I started my search for something to replace it. I tried several platforms like [Feedly](https://feedly.com/i/welcome), [Inoreader](https://www.inoreader.com/?lang=en_US), and [NewsBlur](https://newsblur.com/), and while those platforms were mostly what I wanted [^1] I wasn't
+This is where RSS readers (remember Google Reader?) come back in to importance for me. Unfortunately Google Reader has been [discontinued since 2013](https://www.google.com/reader/about/) so I started my search for something to replace it. I tried several platforms like [Feedly](https://feedly.com/i/welcome), [Inoreader](https://www.inoreader.com/?lang=en_US), and [NewsBlur](https://newsblur.com/). While those platforms were mostly what I wanted[^1] I felt as long as I was going to take ownership over what I read, I should take ownership of the tool I would use to do my reading as well, so I decided to go with something that I could host on my own domain. 
+
+After some more research I decided on Tiny Tiny RSS, which I have setup with my favorite blogs and news sources at [reader.jadin.me](reader.jadin.me). After some tinkering I got everyting working the way I like AND I solved my problem with feeling stressed out by the number of unread items using this thought technology:[^2]
+
+### I don't need to read everything in my RSS reader. It is both OK and totally healthy to hit "Mark as Read" on occasion.
+
+
 
 [^1]: I recommend Inoreader if you are not looking to host something yourself.
 
-
+[^2]: Thought technol
