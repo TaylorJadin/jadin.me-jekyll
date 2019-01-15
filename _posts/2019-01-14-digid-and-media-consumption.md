@@ -47,7 +47,7 @@ The media I consume online is certainly one of the ingredients that make up my p
 
 This is where RSS readers (remember Google Reader?) come back in to importance for me. Unfortunately Google Reader has been [discontinued since 2013](https://www.google.com/reader/about/) so I started my search for something to replace it. I tried several platforms like [Feedly](https://feedly.com/i/welcome), [Inoreader](https://www.inoreader.com/?lang=en_US), and [NewsBlur](https://newsblur.com/). While those platforms were mostly what I wanted[^1] I felt as long as I was going to take ownership over what I read, I should take ownership of the tool I would use to do my reading as well, so I decided to go with something that I could host on my own domain. 
 
-After some more research I decided on Tiny Tiny RSS, which I have setup with my favorite blogs and news sources at [reader.jadin.me](reader.jadin.me). After some tinkering I got everyting working the way I like AND I solved my problem with feeling stressed out by the number of unread items using this thought technology[^2]:
+After some more research I decided on Tiny Tiny RSS, which I have setup with my favorite blogs and news sources at [reader.jadin.me](reader.jadin.me). After some tinkering I got everyting working the way I like AND I solved my problem with feeling stressed out by the number of unread items using this thought technology:[^2]
 
 #### I don't need to read everything in my RSS reader. It is both OK and totally healthy to hit "Mark as Read" on occasion.
 
@@ -55,7 +55,7 @@ Its stupid that I couldn't come to terms with this earlier, but welcome to my br
 
 ## Final Thoughts
 
-So has this been successful? So far, I think so. I definitely spend much more of my reading time in Tiny Tiny RSS, which I have set up with a much more diverse set of news sources and blogs. In the past few months I have noticed my habits change, I and will visit there first when I have a few minutes and want to read something. I'm also very satisfied with the [Android app](https://play.google.com/store/apps/details?id=org.fox.ttrss&hl=en_US) for use on my phone, which is important because I probably read more from my phone than from a laptop or desktop nowadays. In addition to this I spend more time reading stuff from individual people writing about educational technology and the web itself[^3], which feels like time well spent 🤔
+So has this been successful? So far, I think so. I definitely spend much more of my reading time in Tiny Tiny RSS, which I have set up with a much more diverse set of news sources and blogs. In the past few months I have noticed my habits change, I and will visit there first when I have a few minutes and want to read something. I'm also very satisfied with the [Android app](https://play.google.com/store/apps/details?id=org.fox.ttrss&hl=en_US) for use on my phone, which is important because I probably read more from my phone than from a laptop or desktop nowadays. In addition to this I spend more time reading stuff from individual people writing about educational technology and the web itself,[^3] which feels like time better spent 🤔
 
 
 [^1]: I recommend Inoreader if you are not looking to host something yourself.
