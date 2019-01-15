@@ -48,7 +48,7 @@ This is where RSS readers (remember Google Reader?) come back in to importance f
 
 After some more research I decided on Tiny Tiny RSS, which I have setup with my favorite blogs and news sources at [reader.jadin.me](reader.jadin.me). After some tinkering I got everyting working the way I like AND I solved my problem with feeling stressed out by the number of unread items using this thought technology:[^2]
 
-### I don't need to read everything in my RSS reader. It is both OK and totally healthy to hit "Mark as Read" on occasion.
+#### I don't need to read everything in my RSS reader. It is both OK and totally healthy to hit "Mark as Read" on occasion.
 
 
 
