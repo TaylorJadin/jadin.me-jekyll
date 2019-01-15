@@ -9,7 +9,7 @@ Typically when we talk about digital identity we focus on our digital footprint 
 
 I have always enjoyed reading news articles and blog posts on the internet. I've made a habit of frequently reading blogs and news sites on various topics that interest me (mostly tech, education and music) since high school. For me this behavior has not changed, **I still read a lot of articles and blog posts, but the _way_ I consume the majority of my written content on the web _has_ changed.**
 
-## Good 'ol bookmarks
+## Good ol' bookmarks
 
 ![Firefox 1.5 on Windows XP with multiple tabs](https://wiki.mozilla.org/images/6/6f/Fx2-new-theme-in-xp-v1.jpg) 
 
