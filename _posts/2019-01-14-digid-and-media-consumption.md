@@ -56,8 +56,8 @@ Its stupid that I couldn't come to terms with this earlier, but welcome to my br
 [^1]: I recommend Inoreader if you are not looking to host something yourself.
 
 [^2]:
-    _Thought technology_
+    *Thought technology*
     <br>
-    Definition: a neat idea you can use to make something work better for you.
+    **Definition**: a neat idea you can use to make something work better for you.
     <br>
-    Origin: Not exactly sure, but if I had to guess, the excellent [Reconcilable Differences](https://www.relay.fm/rd) podcast.
+    **Origin**: Not exactly sure, but if I had to guess, the excellent [Reconcilable Differences](https://www.relay.fm/rd) podcast.
