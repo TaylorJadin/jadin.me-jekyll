@@ -45,4 +45,12 @@ The media I consume online is certainly one of the ingredients that make up my p
 
 *Tiny Tiny RSS hosted on my domain at reader.jadin.me*
 
-This is where RSS readers (remember Google Reader?) come back in to importance for me. Unfortunately Google Reader has been [discontinued since 2013](https://www.google.com/reader/about/) so I started my search for someting to replace it. I tried several platforms like [Feedly](https://feedly.com/i/welcome), [Inoreader](https://www.inoreader.com/?lang=en_US), and [NewsBlur](https://newsblur.com/), and while those platforms were mostly what I wanted
+This is where RSS readers (remember Google Reader?) come back in to importance for me. Unfortunately Google Reader has been [discontinued since 2013](https://www.google.com/reader/about/) so I started my search for someting to replace it. I tried several platforms like [Feedly](https://feedly.com/i/welcome), [Inoreader](https://www.inoreader.com/?lang=en_US), and [NewsBlur](https://newsblur.com/), and while those platforms were mostly what I wanted [^1]
+
+
+[^1]: I would in particular recommend Inoreader if you are not looking to host something yourself.
+
+
+
+
+
