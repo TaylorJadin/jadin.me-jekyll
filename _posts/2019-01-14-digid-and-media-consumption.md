@@ -5,15 +5,15 @@ title: "Digital Identity and Media Consumption"
 tags: [DigPINS]
 ---
 
-Typically when we talk about digital identity we focus on our digital footprint or what we leave behind on the web. Lately though I have been thinking about how what I consume on the web affects me, or how my online self affects my offline self.
+Typically when we talk about digital identity we focus on our digital footprint or what we leave behind on the web. Lately, I have been thinking about how what I consume on the web affects me, or how my "online" self affects my "offline" self.
 
-I have always enjoy reading news articles and blog posts on the internet. I've made a habit of frequently reading blogs and news sites on various topics that interest me (mostly tech, education and music) since high school. For me this behavior has not changed, I STILL read a lot of articles and blog posts, but the methods I consume the majority of my written content on the web has changed.
+I have always enjoyed reading news articles and blog posts on the internet. I've made a habit of frequently reading blogs and news sites on various topics that interest me (mostly tech, education and music) since high school. For me this behavior has not changed, **I still read a lot of articles and blog posts, but the _way_ I consume the majority of my written content on the web _has_ changed.**
 
 ## Good 'ol bookmarks
 
 ![Firefox 1.5 on Windows XP with multiple tabs](https://wiki.mozilla.org/images/6/6f/Fx2-new-theme-in-xp-v1.jpg) 
 
-*Firefox 1.5, with glorious tabbed browsing. A blast from the past - [Source](https://wiki.mozilla.org/FX2_Visual_Update/Default_Theme_Update#Design_Mockups)*
+*Firefox 1.5, with glorious tabbed browsing. A blast from the past. [Source](https://wiki.mozilla.org/FX2_Visual_Update/Default_Theme_Update#Design_Mockups)*
 
 I used to simply have a folder of bookmarks that I would visit (one at a time) when I was looking for something to read. Eventually I was able to use browser tabs to make it easy to open multiple sites at once!
 
@@ -23,9 +23,13 @@ I used to simply have a folder of bookmarks that I would visit (one at a time) w
 
 *[Source](https://commons.wikimedia.org/wiki/File:Google_Reader_logo_Galligan.png)*
 
-Then I discovered [Google Reader](https://en.wikipedia.org/wiki/Google_Reader), an RSS reader, which simply put allows you to subscribe to posts from a favorite sites, and have them delivered to you in an inbox. This was great because it allowed me to subscribe to a much wider variety of sources to read and it even worked pretty well on my 1st generation [iPod Touch](https://en.wikipedia.org/wiki/IPod_Touch).
+Then I discovered [Google Reader](https://en.wikipedia.org/wiki/Google_Reader), an RSS reader, which allows you to subscribe to posts from your favorite sites and have them delivered to you in an inbox of sorts. This was great because it allowed me to subscribe to a much wider variety of sources to read and it even worked pretty well on my iPod Touch.
 
-Google Reader was a cool service at the time, but I had some problems with my own usage of RSS. I began to treat it like work, like I had to at least skim each and every article that came through to zero out my inbox of articles. This type of thinking caused me to abandon the idea of using Google Reader or other RSS readers and instead transitioned my reading back to just visiting sites by typing them into the address bar of my browser.
+![1st generation iPod Touch in its packaging](https://cdn.pixabay.com/photo/2015/03/11/11/10/ipod-668518_640.jpg)
+
+*1st gen iPod Touch. [Source](https://pixabay.com/en/ipod-touch-apple-tablet-mp3-668518/)*
+
+Google Reader was a cool service at the time, but I had some problems with my own usage of RSS. I began to treat it like work. It felt like I had to at least skim each and every article that came through to zero out my inbox of articles. This type of thinking caused me to abandon the idea of using Google Reader or other RSS readers and instead I transitioned my reading back to just visiting sites by typing them into the address bar of my browser.
 
 ## The Problem
 
@@ -33,13 +37,13 @@ Google Reader was a cool service at the time, but I had some problems with my ow
 
 *[Source](https://pixabay.com/en/media-social-media-apps-998990/)*
 
-Soon, as platforms like Twitter, Facebook and Reddit became more popular I began to find myself spending more time there and transitioning more of my reading time away from individual sites. Jumping forward to about 6 months ago I realized that I was seeking out way less individual news sources than I ever had and instead spent most of my reading time on Twitter, Facebook and Reddit. I noticed that the news sites I did intentionally visit were whittled down to only a few because it was easier to just visit Twitter, Reddit and Facebook. 
+Soon, as social media platforms became more popular I began to find myself spending more time there and transitioning more of my reading time away from individual sites. Jumping forward to about 6 months ago I realized that I was seeking out way less individual news sources than I ever had and instead spent most of my reading time on Twitter, Facebook and Reddit. I noticed that the news sites I did intentionally visit were whittled down to only a few because it was easier to just visit Twitter and Reddit. 
 
-This all makes sense. Platforms like these live and die on their ability to keep people engaged. The business models of these sites are based around getting you to spend more time on them, so that you view and engage with advertisements they get paid to display. These websites are engineered to make you want to visit them as often as possible and for you to feel like there is always more to discover on them.
+This all makes sense. Platforms like these live and die on their ability to keep people engaged. The business models of these sites are based around getting you to spend more time on them, so that you view and engage with advertisements they get paid to display. These sites are engineered to make you want to visit them as often as possible and for you to feel like there is always more to discover on them.
 
 ## Why does it matter?
 
-The media I consume online is certainly one of the ingredients that make up my persona. At the risk of sounding dramatic, why wouldn't I want to have control over that part of what makes me, me? That being said, I know that I don't want to just stop reading articles and blog posts, so I needed something else to shift those habits over to. It is also worth noting that I don't personally feel the need to completely cut these platforms out of my life, but that I just want to spend less time visiting them.
+The media I consume online is certainly one of the ingredients that make up my persona. At the risk of sounding dramatic, why wouldn't I want to have control over that part of what makes me, me? That being said, I know that I don't want to just stop reading articles and blog posts, so I needed something else to shift those habits over to.[^0]
 
 ## Tiny Tiny RSS
 
@@ -47,18 +51,20 @@ The media I consume online is certainly one of the ingredients that make up my p
 
 *Tiny Tiny RSS hosted on my domain at reader.jadin.me*
 
-This is where RSS readers (remember Google Reader?) come back in to importance for me. Unfortunately Google Reader has been [discontinued since 2013](https://www.google.com/reader/about/) so I started my search for something to replace it. I tried several platforms like [Feedly](https://feedly.com/i/welcome), [Inoreader](https://www.inoreader.com/?lang=en_US), and [NewsBlur](https://newsblur.com/). While those platforms were mostly what I wanted[^1] I felt as long as I was going to take ownership over what I read, I should take ownership of the tool I would use to do my reading as well, so I decided to go with something that I could host on my own domain. 
+This is where RSS readers (remember Google Reader?) come back in to importance for me. Unfortunately Google Reader has been [discontinued since 2013](https://www.google.com/reader/about/) so I started my search for something to replace it. I tried several platforms like [Feedly](https://feedly.com/i/welcome), [Inoreader](https://www.inoreader.com/?lang=en_US), and [NewsBlur](https://newsblur.com/). While these RSS readers mostly worked how I'd like them to[^1] I felt as long as I was going to take ownership over what I read, I should take ownership of the tool I would use to do my reading as well. For me this meant that I should go with something that I could host on my own domain. 
 
-After some more research I decided on Tiny Tiny RSS, which I have setup with my favorite blogs and news sources at [reader.jadin.me](reader.jadin.me). After some tinkering I got everything working the way I like AND I solved my problem with feeling stressed out by the number of unread items using this thought technology:[^2]
+After some more research I decided on Tiny Tiny RSS, which I set up with my favorite blogs and news sources at [reader.jadin.me](reader.jadin.me). After some tinkering I got everything working the way I like AND I solved my problem with feeling stressed out by the number of unread items using this thought technology:[^2]
 
-#### I don't need to read everything in my RSS reader. It is both OK and totally healthy to hit "Mark as Read" on occasion.
+#### I don't need to read everything in my RSS reader. It is both OK and totally healthy to hit the "Mark as Read" button on occasion.
 
-Its stupid that I couldn't come to terms with this earlier, but welcome to my brain, I get to live with it. One other tactic I do to balance out the large number of articles that come through from some more mainstream news sources versus the smaller blogs I follow is that I have categories for each. This makes it easier to simply skim the headlines of news websites, yet still read every post from news sources I really care about.
+Its stupid that I couldn't come to terms with this earlier, but thats sometimes how my brain works.[^2.5] Another tactic that helps me here is to organize  the larger news sites and smaller blogs into their own respective categories. This makes it easier to simply skim the headlines of the news websites while still catching every post from blogs I really care about.
 
 ## Final Thoughts
 
-So has this been successful? So far, I think so. I definitely spend much more of my reading time in Tiny Tiny RSS, which I have set up with a much more diverse set of news sources and blogs. In the past few months I have noticed my habits change, I and will visit there first when I have a few minutes and want to read something. I'm also very satisfied with the [Android app](https://play.google.com/store/apps/details?id=org.fox.ttrss&hl=en_US) for use on my phone, which is important because I probably read more from my phone than from a laptop or desktop nowadays. In addition to this I spend more time reading stuff from individual people writing about educational technology and the web itself,[^3] which feels like time better spent 🤔
+Has this been successful? So far, I think so. I definitely spend much more of my reading time in Tiny Tiny RSS, which I have set up with a much more diverse set of news sources and blogs and its usually the first place I will go when I'm looking for something to read. I'm also very satisfied with the [Android app](https://play.google.com/store/apps/details?id=org.fox.ttrss&hl=en_US) for use on my phone, which is important because I probably read more from my phone than from a laptop or desktop nowadays. In addition to this I spend more time reading stuff from individual people writing about educational technology and the web itself,[^3] which feels like time better spent.
 
+
+[^0] It is also worth noting that I don't personally feel the need to completely cut these platforms out of my life, but that I just want to spend less time compulsively visiting them.
 
 [^1]: I recommend Inoreader if you are not looking to host something yourself.
 
@@ -68,5 +74,7 @@ So has this been successful? So far, I think so. I definitely spend much more of
     **Definition**: A pretty neat idea you can employ to make something easier on yourself
     <br>
     **Origin**: Not exactly sure but if I had to guess, the excellent [Reconcilable Differences](https://www.relay.fm/rd) podcast.
+
+[^2.5]: I get to live with it.
 
 [^3]: Whoah dude, thats meta.
