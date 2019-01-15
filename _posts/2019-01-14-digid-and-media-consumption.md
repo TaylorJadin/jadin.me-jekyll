@@ -56,7 +56,7 @@ Its stupid that I couldn't come to terms with this earlier, but welcome to my br
 
 [^2]:
     _Thought technology_
-    
+    \n
     Definition: a neat idea you can use to make something work better for you.
-
+    \n
     Origin: Not exactly sure, but if I had to guess, the excellent [Reconcilable Differences](https://www.relay.fm/rd) podcast.
