@@ -50,8 +50,13 @@ After some more research I decided on Tiny Tiny RSS, which I have setup with my 
 
 #### I don't need to read everything in my RSS reader. It is both OK and totally healthy to hit "Mark as Read" on occasion.
 
-
+Its stupid that I couldn't come to terms with this earlier, but welcome to my brain, I get to live with it. One other tactic I do to balance out the large number of articles that come through from some more mainstream news sources versus the smaller blogs I follow is that I have categories for each. This makes it easier to simply skim the headlines of news websites, yet still read every post from news sources I really care about.
 
 [^1]: I recommend Inoreader if you are not looking to host something yourself.
 
-[^2]: Thought technol
+[^2]:
+    _Thought technology_
+    
+    Definition: a neat idea you can use to make something work better for you.
+
+    Origin: Not exactly sure, but if I had to guess, the excellent [Reconcilable Differences](https://www.relay.fm/rd) podcast.
