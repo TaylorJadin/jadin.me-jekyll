@@ -25,15 +25,15 @@ I used to simply have a folder of bookmarks that I would visit (one at a time) w
 
 Then I discovered [Google Reader](https://en.wikipedia.org/wiki/Google_Reader), an RSS reader, which allows you to subscribe to posts from your favorite sites and have them delivered to you in an inbox of sorts. This was great because it allowed me to subscribe to a much wider variety of sources to read and it even worked pretty well on my iPod Touch.
 
-![1st generation iPod Touch in its packaging](https://cdn.pixabay.com/photo/2015/03/11/11/10/ipod-668518_640.jpg)
+![1st generation iPod Touch in its packaging](/assets/img/ipod_touch.jpg)
 
-*1st gen iPod Touch. [Source](https://pixabay.com/en/ipod-touch-apple-tablet-mp3-668518/)*
+*1st gen iPod Touch. More nostalgia. [Source](https://pixabay.com/en/ipod-touch-apple-tablet-mp3-668518/)*
 
 Google Reader was a cool service at the time, but I had some problems with my own usage of RSS. I began to treat it like work. It felt like I had to at least skim each and every article that came through to zero out my inbox of articles. This type of thinking caused me to abandon the idea of using Google Reader or other RSS readers and instead I transitioned my reading back to just visiting sites by typing them into the address bar of my browser.
 
 ## The Problem
 
-![screenshot of phone with social media apps on the home screen](https://cdn.pixabay.com/photo/2015/10/21/08/22/media-998990_640.jpg)
+![screenshot of phone with social media apps on the home screen](/assets/img/phone_desktop.jpg)
 
 *[Source](https://pixabay.com/en/media-social-media-apps-998990/)*
 
